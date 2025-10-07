@@ -62,3 +62,6 @@ build/
 
 # Secrets
 secrets.yaml
+
+# OS files
+minikube-darwin-amd64
